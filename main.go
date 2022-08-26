@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("menu feature b")
 	fmt.Println("menu feature c")
 	fmt.Println("tambah main")
+	fmt.Println("tambah main lagi")
 }
