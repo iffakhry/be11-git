@@ -9,6 +9,7 @@ func main() {
 	fmt.Println("menu feature a")
 	fmt.Println("menu feature b")
 	fmt.Println("menu feature c")
+	fmt.Println("menu feature d lagi")
 	fmt.Println("tambah main")
 	fmt.Println("tambah main lagi")
 }
